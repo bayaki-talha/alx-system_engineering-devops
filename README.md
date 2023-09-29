@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Time for programmin
+Time for programming
